@@ -1,0 +1,6 @@
+# Nunca versionar segredos SSH
+.ssh/
+id_ed25519*
+*.pem
+*.key
+config.bak-*
